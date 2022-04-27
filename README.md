@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I’m @pareshkapdiya
+### 👀 I’m interested in ...Web Development
+### 🌱 I’m currently learning ...Blockchain (Dapp, NFT, Ether.js, solidity)
+### 💞️ I’m looking to collaborate on ...Web Projects
+### 📫 How to reach me ...Microsoft team: pareshkapdiya@gmail.com Mail: pareshkapdiya@gmail.com
 
 <!--
 **pareshkapdiya/pareshkapdiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
